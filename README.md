@@ -11,37 +11,37 @@ Extra resources:
 - https://github.com/certificationy/certificationy-cli
 
 #### **PHP**
-- [ ] Object Oriented Programming
+- [x] Object Oriented Programming
   - http://php.net/manual/en/language.oop5.php
-- [ ] Namespaces  
+- [x] Namespaces  
   - http://www.php.net/manual/en/language.namespaces.php  
   - https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
-- [ ] Interfaces  
+- [x] Interfaces  
   - http://www.php.net/manual/en/language.oop5.interfaces.php
-- [ ] Anonymous functions and closures  
+- [x] Anonymous functions and closures  
   - http://www.php.net/manual/en/functions.anonymous.php
-- [ ] Abstract classes  
+- [x] Abstract classes  
   - http://www.php.net/manual/en/language.oop5.abstract.php
-- [ ] Exception and error handling  
+- [x] Exception and error handling  
   - https://secure.php.net/manual/en/class.exception.php  
   - http://php.net/manual/en/language.exceptions.php
-- [ ] Traits  
+- [x] Traits  
   - http://php.net/manual/en/language.oop5.traits.php
-- [ ] PHP extensions  
+- [x] PHP extensions  
   - http://php.net/manual/en/extensions.php
-- [ ] SPL  
+- [x] SPL  
   - http://php.net/manual/en/book.spl.php
-- [ ] Web security (XSS, CSRF, etc.)
+- [x] Web security (XSS, CSRF, etc.)
   - http://php.net/manual/en/security.php
 
 ---
 
 #### **HTTP**
-- [ ] Client / Server interaction  
+- [x] Client / Server interaction  
   - http://symfony.com/doc/3.0/book/http_fundamentals.html
-- [ ] Status codes  
+- [x] Status codes  
   - http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-- [ ] HTTP request  
+- [x] HTTP request  
   - http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request
 - [ ] HTTP response  
   - http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response
